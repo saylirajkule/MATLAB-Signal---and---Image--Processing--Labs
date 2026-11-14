@@ -20,6 +20,6 @@ A collection of MATLAB scripts and simulations focused on digital image processi
 * **Software:** MATLAB / GNU Octave
 * **Key Toolboxes:** Image Processing Toolbox, Signal Processing Toolbox
 
-![Output Plot](result.png)
+![Output Plot](qpsk.png.png)
 
 

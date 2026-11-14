@@ -93,4 +93,8 @@ xlabel('SNR (dB)');
 ylabel('Bit Error Rate (BER)');
 axis([0 10 1e-4 1]);
 
+
+
+
 ![Output Plot](qpsk.png.png)
+
